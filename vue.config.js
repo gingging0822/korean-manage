@@ -1,3 +1,3 @@
-modules.exports = {
+module.exports = {
   publicPath: process.env.NOED_ENV === "production" ? "/korean-manage/" : ""
 };
